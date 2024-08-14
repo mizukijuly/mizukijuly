@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mizukijuly
-- 👀 I’m interested in Factory automation, PLC, Python, SCADA, AWS
+- 👀 I’m interested in Factory automation, PLC, Python, SCADA, AWS and embedded system, space exploitation.
 
 Certifications
 
