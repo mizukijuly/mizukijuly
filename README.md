@@ -26,7 +26,9 @@ Foundations of Cybersecurity
 https://coursera.org/share/d478c5a098bac84b6e815318327f5334
 
 CEFR English C1
+
 https://drive.google.com/file/d/1vFzCQY8CjXna-UeTMxfNZ1cEEhbcVYRY/view?usp=sharing
 
 CEFR German A2
+
 https://drive.google.com/file/d/1VXIjcjPKRJddl7YtXUbDTzzKa4LtelZd/view?usp=sharing
